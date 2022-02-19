@@ -33,3 +33,5 @@
 
 ## Apoio: 
     * https://www.w3schools.com/python/default.asp
+    
+    * https://github.com/lauraemmanuella/IntroducaoPython
