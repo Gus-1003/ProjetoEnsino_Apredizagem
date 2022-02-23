@@ -27,6 +27,9 @@
       - Computação distribuida e big data:
         # DASK;
         # Spark;
+  <div align="center">
+      <img src="https://github.com/Gus-1003/Python_Experimentos/blob/main/PythonTools.jfif" width="800" height="800">
+  </div>
 
 ## Documentação: 
     * https://docs.python.org/pt-br/3/tutorial/index.html
