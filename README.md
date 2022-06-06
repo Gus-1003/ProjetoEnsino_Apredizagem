@@ -1,40 +1,13 @@
 # Python_Experimentos
-    * Projeto voltado ao uso da linguagem python visando aprender suas aplicações.
-    
-    * Ambientes para o Python:
-      - Anaconda -> Jupyter lab;
-      - Google Colab
-      - Github
-      - Rstudio
+
+## Objetivo:
+      Repositório responsável por armazenar práticas e anotações sobre a linguagem python;
       
-    * Bibliotecas / Ferramentas para ciência de dados:
-      - Análise de dados:
-        # Matplotlib;
-        # Pandas;
-        # Flack;
-      - Aprendizagem de máquina / Estatística:
-        # PyTorch;
-        # Tensor Flow
-        # SciPy;
-        # Scikit-learn
-      - Ciência da computação:
-        # NumPy;
-        # PyTables;
-      - Web e visualização:
-        # Power BI;
-        # Power Point;
-        # MatplotLib;
-      - Computação distribuida e big data:
-        # DASK;
-        # Spark;
-  <div align="center">
-      <img src="https://github.com/Gus-1003/Python_Experimentos/blob/main/PythonTools.jfif" width="800" height="800">
-  </div>
-
-## Documentação: 
-    * https://docs.python.org/pt-br/3/tutorial/index.html
-
-## Apoio: 
-    * https://www.w3schools.com/python/default.asp
-    
-    * https://github.com/lauraemmanuella/IntroducaoPython
+## Métodos:
+      1. Pratica com lista de questões da disciplina de lógica de programação - TADS - UFRN;
+      2. Desenvolvimento de testes com as bibliotecas mais populares da linguagem;
+      3. Geração de projetos de pequeno e médio porte;
+     
+## Anotações:
+      Todo o conteúdo teorico adiquirido estará na aba "Wiki" desse repositório ou comentado
+      nos códigos postados;
